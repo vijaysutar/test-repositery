@@ -8,3 +8,7 @@
 
 #rebase test branch
 #rebase test branch commit 2
+
+
+#git amend test
+#git amend another test
